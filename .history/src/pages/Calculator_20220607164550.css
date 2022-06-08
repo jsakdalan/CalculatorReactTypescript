@@ -1,0 +1,41 @@
+.container{
+    margin-top:10%;
+    max-width: 500px!important;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding:15px!important;
+    border-radius: 5px;
+}
+
+.screen{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+.numerical{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+.operational{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+.equals{
+    height: 154px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+.erase{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}

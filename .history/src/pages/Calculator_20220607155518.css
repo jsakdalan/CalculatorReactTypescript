@@ -1,0 +1,16 @@
+.container{
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numerical{
+    width: 100%;
+    margin: 10px;
+}
+
+.operational{
+    width: 100%;
+    margin: 10px;
+}

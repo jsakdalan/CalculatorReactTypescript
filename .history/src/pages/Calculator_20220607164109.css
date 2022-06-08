@@ -1,0 +1,33 @@
+.container{
+    max-width: 500px!important;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.screen{
+    width: 100%;
+    margin: 10px;
+}
+
+.numerical{
+    width: 100%;
+    margin: 10px;
+}
+
+.operational{
+    width: 100%;
+    margin: 10px;
+}
+
+.equals{
+    height: 154px;
+ 
+    width: 100%;
+}
+
+.erase{
+ 
+    width: 100%;
+}
